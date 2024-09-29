@@ -23,5 +23,5 @@ This project is a simple CRUD (Create, Read, Update, Delete) web application for
 - Java 17+
 - Maven 3.8+
 - MySQL 8+
-- IDE of your choice (Eclipse, IntelliJ IDEA, etc.)
+- Spring Tool Suite (STS)
 
