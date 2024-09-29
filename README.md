@@ -25,8 +25,3 @@ This project is a simple CRUD (Create, Read, Update, Delete) web application for
 - MySQL 8+
 - IDE of your choice (Eclipse, IntelliJ IDEA, etc.)
 
-### Setup and Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kiranbattase/List-Of-Book-Information.git
-   cd List-Of-Book-Information
